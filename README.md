@@ -1,4 +1,4 @@
-# Wizard-s-UI-Library
+# Wizard's UI Library
 Simple UI Library. With Clean And Sexy UI for you
 Credit To Wizard
 ###Setup The Library
