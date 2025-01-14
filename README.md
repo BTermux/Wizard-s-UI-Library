@@ -53,4 +53,12 @@ print(value)
 ```
 
 
+### Adding Color Picker
+```lua
+KillingCheats:CreateColorPicker("Picker", Color3.new(255, 255, 255), function(value)
+print(value)
+end)
+```
+
+
 ### Credits: Wizard and alimkulov
