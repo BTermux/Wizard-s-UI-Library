@@ -1,7 +1,7 @@
 # Wizard's UI Library
 Simple UI Library. With Clean And Sexy UI for you
 Credit To Wizard
-###Setup The Library
+### Setup The Library
 ```lua
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/BTermux/Wizard-s-UI-Library/refs/heads/main/Wizard-Library"), true)()
 ```
